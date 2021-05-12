@@ -1,0 +1,6 @@
+model_checkpoint_path: "E:\\taidibei\\LeNet5\\mode1.ckpt-7001"
+all_model_checkpoint_paths: "E:\\taidibei\\LeNet5\\mode1.ckpt-3001"
+all_model_checkpoint_paths: "E:\\taidibei\\LeNet5\\mode1.ckpt-4001"
+all_model_checkpoint_paths: "E:\\taidibei\\LeNet5\\mode1.ckpt-5001"
+all_model_checkpoint_paths: "E:\\taidibei\\LeNet5\\mode1.ckpt-6001"
+all_model_checkpoint_paths: "E:\\taidibei\\LeNet5\\mode1.ckpt-7001"
